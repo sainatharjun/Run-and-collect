@@ -1,2 +1,3 @@
 # Run-and-collect
-Run and collect game
+store all files in a single folder.
+run the index.html file in your web browser and start playing!.

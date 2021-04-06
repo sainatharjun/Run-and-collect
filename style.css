@@ -1,0 +1,32 @@
+/* Frank Poth 08/13/2017 */
+
+* {
+
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+
+}
+
+html, body {
+
+  height:100%;
+  width:100%;
+
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  align-content:space-around;
+  background-color:#1c88f5;
+  color:#132136;
+  display:grid;
+  justify-content:center;
+
+}
+
+canvas {
+
+  background-color:#ffffff;
+
+}
